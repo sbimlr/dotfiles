@@ -1,0 +1,241 @@
+* text=auto
+*.3gp binary
+*.3gpp binary
+*.7z binary
+*.a binary
+*.adoc text
+*.ai binary
+*.app binary
+*.as binary
+*.asf binary
+*.asx binary
+*.bash text eol=lf
+*.bat text eol=crlf
+*.bibtex text diff=bibtex
+*.bmp binary
+*.bowerrc text
+*.c text diff=c
+*.c++ text diff=cpp
+*.cc text diff=cpp
+*.class binary
+*.cmd text eol=crlf
+*.cnf text
+*.coffee text
+*.conf text
+*.config text
+*.cpp text diff=cpp
+*.css text
+*.css text diff=css
+*.csv text
+*.cxx text diff=cpp
+*.db binary
+*.df text
+*.dll binary
+*.doc diff=astextplain
+*.DOC diff=astextplain
+*.dockerignore text
+*.docx diff=astextplain
+*.DOCX diff=astextplain
+*.dot diff=astextplain
+*.DOT diff=astextplain
+*.dot text
+*.dylib binary
+*.ear binary
+*.ejs text
+*.eot binary
+*.eps binary
+*.exe binary
+*.fla binary
+*.flv binary
+*.gch binary
+*.gif binary
+*.gifv binary
+*.go -text diff=golang
+*.gradle text diff=java
+*.gradle.kts text diff=java
+*.gz binary
+*.h text diff=c
+*.h++ text diff=cpp
+*.haml text
+*.handlebars text
+*.hbs text
+*.hbt text
+*.hh text diff=cpp
+*.hpp text diff=cpp
+*.htm text diff=html
+*.html text diff=html
+*.ico binary
+*.inc text
+*.ini text
+*.ipynb text
+*.jade text
+*.jar binary
+*.java text diff=java
+*.jng binary
+*.jp2 binary diff=exif
+*.jpeg binary diff=exif
+*.jpg binary diff=exif
+*.jpx binary
+*.js text
+*.json text
+*.jsp text
+*.jspf text
+*.jspx text
+*.jsx text
+*.jxr binary
+*.kar binary
+*.la binary
+*.lai binary
+*.latte text
+*.less text
+*.lib binary
+*.lo binary
+*.lock text -diff
+*.ls text
+*.lua text
+*.m4a binary
+*.m4v binary
+*.map text -diff
+*.markdown text
+*.md text
+*.mdown text
+*.mdtext text
+*.mdtxt text
+*.mdwn text
+*.mid binary
+*.midi binary
+*.mkd text
+*.mkdn text
+*.mng binary
+*.mov binary
+*.mp3 binary
+*.mp4 binary
+*.mpeg binary
+*.mpg binary
+*.mustache text
+*.njk text
+*.npmignore text
+*.o binary
+*.obj binary
+*.od text
+*.ogg binary
+*.ogv binary
+*.onlydata text
+*.otf binary
+*.out binary
+*.p binary
+*.pch binary
+*.pdf binary
+*.pdf diff=astextplain
+*.PDF diff=astextplain
+*.php text diff=php
+*.phtml text
+*.pickle binary
+*.pkl binary
+*.pl text
+*.pl text diff=perl
+*.pm text diff=perl
+*.png binary diff=exif
+*.properties text
+*.ps1 text eol=crlf
+*.psb binary
+*.psd binary
+*.pxd text diff=python
+*.py text diff=python
+*.py3 text diff=python
+*.pyc binary
+*.pyc text diff=python
+*.pyd binary
+*.pyd text diff=python
+*.pyo binary
+*.pyo text diff=python
+*.pyw text diff=python
+*.pyx text diff=python
+*.pyz text diff=python
+*.ra binary
+*.rar binary
+*.rb text diff=ruby
+*.rtf diff=astextplain
+*.RTF diff=astextplain
+*.sass text
+*.scm text
+*.scss text diff=css
+*.sh text eol=lf
+*.slo binary
+*.so binary
+*.sql text
+*.styl text
+*.svg text
+*.svgz binary
+*.swc binary
+*.swf binary
+*.tab text
+*.tag text
+*.tagx text
+*.tar binary
+*.tex text diff=tex
+*.textile text
+*.tif binary
+*.tiff binary
+*.tld text
+*.tmpl text
+*.toml text
+*.tpl text
+*.ts text
+*.tsv text
+*.tsx text
+*.ttf binary
+*.twig text
+*.txt text
+*.vue text
+*.war binary
+*.wbmp binary
+*.webm binary
+*.webp binary
+*.woff binary
+*.woff2 binary
+*.xhtml text diff=html
+*.xml text
+*.yaml text
+*.yml text
+*.zip binary
+*COPYRIGHT* text
+*README* text
+.babelrc text
+.browserslistrc text
+.csslintrc text
+.editorconfig text
+.env text
+.eslintrc text
+.gitattributes export-ignore
+.gitattributes text
+gitattributes text
+.gitconfig text
+gitconfig text
+.gitignore export-ignore
+gitignore text
+.htaccess text
+.htmlhintrc text
+.jscsrc text
+.jshintignore text
+.jshintrc text
+.slugignore text
+.stylelintrc text
+AUTHORS text
+browserslist text
+CHANGELOG text
+CHANGES text
+CONTRIBUTING text
+COPYING text
+copyright text
+Dockerfile text
+INSTALL text
+license text
+LICENSE text
+makefile text
+Makefile text
+NEWS text
+package-lock.json text -diff
+Procfile text
+readme text
+TODO text
