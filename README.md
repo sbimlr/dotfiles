@@ -4,8 +4,7 @@
 * enable or disable
 
 **Get**
-> cd ~
-> git clone https://github.com/sbimlr/dotfiles.git
+> cd ~ ; git clone https://github.com/sbimlr/dotfiles.git
 
 **Enable**
 > ~/dotfiles/enable.sh
